@@ -10,7 +10,7 @@ Full-stack developer building real-world web applications with modern tech stack
 A full-featured inventory platform for enterprise use — products, stock movements, invoices with PDF export, role-based access, and a live dashboard with analytics.
 
 **Tech:** Laravel · PHP · React · MySQL · DomPDF  
-**Repo:** [inventory-system](https://github.com/ErisA0/inventory-system)
+**Repo:** [-inventory-system](https://github.com/ErisA0/-inventory-system)
 
 ---
 
